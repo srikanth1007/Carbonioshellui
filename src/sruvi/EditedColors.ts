@@ -1,0 +1,36 @@
+export const BACKGROUND_COLOR = '#FFFFFF';
+export const PRIMARY_COLOR = '#ff6600';
+export const SECONDARY_COLOR = '#0a1153';
+export const FOREGROUND_COLOR = '#c2e7ff';
+export const FOREGROUND_COLOR_FOCUSED = '#FFFFFF';
+export const PRIMARY_ICON_COLOR_INACTIVE = '#000000';
+export const PRIMARY_ICON_COLOR_ACTIVE = '#000000';
+export const ACCESSORY_ICON_COLOR = '#000000';
+export const RAISED_SEARCH_BAR = true;
+
+////Mobile
+
+export const PRIMARY_BAR_BACKGROUND_COLOR = '#FFFFFF';
+////Mobile
+
+//////Center Content
+
+export const CENTER_CONTENT_BACKGROUND_COLOR = '#FFFFFF';
+export const CENTER_CONTENT_SELECT_DROPDOWN_COLOR = '#FFFFFF';
+export const CENTER_CONTENT_SELECT_DROPDOWN_DISABLED_COLOR = '#f5f5f5';
+
+////button
+
+///logout // discard buttons
+export const CENTER_CONTENT_BUTTON_BACKGROUND_WARNING_COLOR = '#FFFFFF';
+export const CENTER_CONTENT_BUTTON_TEXT_WARNING_COLOR = '#000000';
+export const CENTER_CONTENT_BUTTON_DISABLED_BACKGROUND_WARNING_COLOR = '#f5f5f5';
+export const CENTER_CONTENT_BUTTON_ICON_WARNING_COLOR = '#000000';
+
+/////normal buttons
+export const CENTER_CONTENT_BUTTON_BACKGROUND_COLOR = '#FFFFFF';
+export const CENTER_CONTENT_BUTTON_TEXT_COLOR = '#000000';
+export const CENTER_CONTENT_BUTTON_DISABLED_BACKGROUND_COLOR = '#f5f5f5';
+export const CENTER_CONTENT_BUTTON_ICON_COLOR = '#000000';
+///button
+////////center content
